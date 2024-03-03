@@ -2,7 +2,6 @@
 movie recommender system
 
 
-Emails:
 Gilian Wagner: 58029@novasbe.pt
 
 Leonardo Heinemann: 60384@novasbe.pt
