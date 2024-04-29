@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c7bcc32-08fc-45a7-b3d0-3be6ca7c38a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ML_GroupProject_CollaborativeFiltering.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML_GroupProject_DataPreprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML_GroupProject_DataPreprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML_GroupProject_EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML_GroupProject_EDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -33,6 +34,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2eJlcx6xLl6MYjtG3i6F6pcXRrf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Leos__branch__collaborative"
+    "git-widget-placeholder": "Malte__TFRS"
   }
 }]]></component>
   <component name="SharedIndexes">
